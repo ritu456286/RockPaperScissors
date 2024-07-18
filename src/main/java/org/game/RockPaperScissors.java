@@ -30,9 +30,11 @@ public class RockPaperScissors {
 
             System.out.println("Do you want to play again? (yes/no): ");
             String playAgain = sc.nextLine().toLowerCase();
-            if (!playAgain.equals("yes")) {
+            if (playAgain.equals("no")) {
+                System.out.println("Thanks for playing! Have a nice day.");
                 break;
             }
+
         }
     }
 

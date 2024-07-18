@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c5e0fa-25d9-4026-bfc9-46843fa1ef93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/game/RockPaperScissorsTest.java" afterDir="false" />
+    <list default="true" id="e9c5e0fa-25d9-4026-bfc9-46843fa1ef93" name="Changes" comment="Added Test case using Jnit 5 and completed Rock Paper Scissors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/game/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/game/RockPaperScissors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="RockPaperScissorsTest.testDetermineWinnerComputerWins" />
+    </enabled-run-configurations>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -44,6 +42,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RockPaperScissors.executor": "Run",
+    "JUnit.All in RockPaperScissors.executor": "Coverage",
+    "JUnit.RockPaperScissorsTest.testDetermineWinnerComputerWins.executor": "Run",
     "JUnit.RockPaperScissorsTest.testGetComputerMove.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
@@ -61,7 +62,7 @@
       <recent name="org.game" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in RockPaperScissors">
+  <component name="RunManager">
     <configuration name="All in RockPaperScissors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RockPaperScissors" />
       <option name="PACKAGE_NAME" value="" />
@@ -119,6 +120,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721297376347</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Test case using Jnit 5 and completed Rock Paper Scissors">
+      <option name="closed" value="true" />
+      <created>1721302274455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721302274455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Test case using Jnit 5 and completed Rock Paper Scissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Test case using Jnit 5 and completed Rock Paper Scissors" />
   </component>
 </project>
