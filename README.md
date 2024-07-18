@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-This is a simple command-line implementation of the classic Rock-Paper-Scissors game in Java. The game allows the player to play against the computer. The computer randomly selects its move, and the player can input their move via the console. The game continues until the player chooses to stop.
+This is a simple command-line implementation of the classic Rock-Paper-Scissors game in Java. The game allows the player to play against the computer. The computer randomly selects its move, and the player can input their move via the console. The game continues until the player chooses to stop. 
 
 ## Features
 
@@ -9,6 +9,7 @@ This is a simple command-line implementation of the classic Rock-Paper-Scissors 
 - Winner determination logic
 - Option to play multiple rounds
 - Robust input validation
+- Various Test Cases for validation using JUnit 5
 
 ## Getting Started
 
