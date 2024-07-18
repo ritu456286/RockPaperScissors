@@ -12,11 +12,7 @@ public class RockPaperScissors {
         while(true){
             String computerMove = getComputerMove();
 
-
             String playerMove = getPlayerMove(sc);
-
-
-
             System.out.println("Computer played: " + computerMove);
 
             String result = determineWinner(playerMove, computerMove);
